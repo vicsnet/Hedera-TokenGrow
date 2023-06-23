@@ -1,0 +1,6 @@
+{
+    "optimizer": {
+      "enabled": true
+    },
+    "viaIR": true
+  }
